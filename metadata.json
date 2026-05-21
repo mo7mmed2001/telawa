@@ -1,0 +1,6 @@
+{
+  "name": "حلقة الترتيل - مصحح التلاوة الجماعي",
+  "description": "تطبيق إسلامي ذكي لمساعدة معلمي الحلقات القرآنية في تفريغ وتصحيح التلاوات الجماعية، وتصنيف الأخطاء وتقييم الطلاب بشكل فردي والاحتفاظ بسجلاتهم.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
